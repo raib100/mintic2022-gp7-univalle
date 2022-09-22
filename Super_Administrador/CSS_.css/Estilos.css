@@ -1,0 +1,239 @@
+.PrimeraClase{
+    width: 25%;
+    max-width: 90%;
+    margin: 30px auto;
+}
+ul.PestañasUno{
+    width: 100%;
+    background: red;
+    list-style: none;
+    display: flex;
+    padding-left: 0%;
+    border-radius: 10px;
+}
+ul.PestañasUno li a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 18px;
+    display: block;
+    padding: 18% 0%;
+    text-align: center;
+}
+ul.PestañasUno li{
+    width: 100%;
+    
+}
+
+li.active {
+    background: rgb(233, 231, 225);
+    height: -webkit-fill-available;
+}
+
+/*FORMULARIO*/
+.SegundaClase{
+    width: 90%;
+    padding-left: 6%;
+    box-sizing: border-box;
+}
+
+.PestañasDos{
+    width: 400px;
+    background: rgb(255, 0, 0);
+    padding: 30px;
+    margin: auto;
+    margin-top: 30px ;
+    font-family: Calibri;
+    border-radius: 10px;
+    
+}
+
+
+
+.PestañasDos h4{
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: rgb(255, 255, 255) ;
+    text-align: center;
+}
+
+.Controls{
+    width: 100%;
+    background: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 6px;
+    border: 1px solid rgb(255, 255, 255);
+    font-family: monospace;
+    font-size: 18px;
+}
+
+.Botons{
+    width: 30%;
+
+}
+/*REGISTRAR ACTIVIDADES*/
+
+.TerceraClase{
+    width: 25%;
+    background: red;
+    list-style: none;
+    display: flex;
+    padding-left: 10%;
+    border-radius: 10px;
+    margin-left: 20px;
+    padding: 0.9% 0% 1% 0%;
+    font-size: 18px;
+    display: list-item;
+    text-align: center;
+    
+}
+
+.TerceraClase #Opciones{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Calibri;
+    
+}
+
+.CuartaClase {
+    width: 50%;
+    background: red;
+    text-align: center;
+    padding: 1% 0% 1% 0%;
+    margin-top:2% ;
+    border-radius: 10px;
+    margin-left: 300px;
+    
+}
+
+.ONE{
+    margin-left: 100%;
+    width: 75%;
+    border-radius: 10PX;
+    border: rgb(255, 0, 0) 2px solid;
+    margin: 10px;
+    padding: 1% 0% ;
+    text-align: center;
+    margin-left: 10%;
+}
+
+#input{
+    width: 300px;
+    background: rgb(255, 255, 255);
+    border: none;
+    padding: 30px;
+    margin: auto;
+    margin-top: 30px ;
+    font-family: Calibri;
+    border-radius: 10px;
+    font-family: calirbri;
+}
+
+h2{
+    font-family: Calibri;
+    color: red;
+    border: red 2px solid;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.Opcion{
+    background: rgb(226, 213, 213);
+}
+
+.Opciones{
+    background: rgb(241, 232, 232);
+    border-radius: 10px;
+}
+
+.Imagen{
+    width: 40%;
+}
+
+.H1{
+    color: red;
+    font-family: calibri;
+    padding-left: 5%;
+}
+
+table{
+    margin-top: 50px;    
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+td,th{
+    border: 2px solid rgb(201, 189, 189);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+th{
+    background-color: red;
+    color: white;
+}
+
+.Sub_Menu{
+    width:  900px;
+    max-width: 90%;
+    margin: 30px auto;
+    border: 2px solid red;
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+ul.TABS{
+    width: 15%;
+    background: red;
+    list-style: none;
+    padding-left: 0%;
+    border-radius: 10px;
+    
+}
+
+ul.TABS li a{
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+
+}
+
+.ClaseBoton{
+    width: 700px;
+    max-width: 90%;
+    margin: 30px auto;
+    border: 2px solid red;
+    padding-left: 10px;
+    padding-right: 11px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    background: rgb(255, 0, 0);
+    color: black;
+    
+    
+}
+ .BUTON{
+    width: 80%;
+    height: 80px;
+    text-decoration: none;
+    font-size: 25px;
+    background: rgb(206, 197, 197);
+
+ }
+
+ *{
+    text-decoration: none; 
+    color: black;
+ }
